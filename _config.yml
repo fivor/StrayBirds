@@ -26,7 +26,7 @@ unpublished:  false
 
 # Conversion
 markdown:     kramdown
-highlighter:  pygments
+highlighter:  rouge
 lsi:          false
 excerpt_separator: "\n\n"
 
@@ -118,10 +118,10 @@ disqus:
 username: fivor
 baseurl: /blog
 safe: false
-highlighter: pygments
+highlighter: rouge
 title: 飞鸟集
 description: 人生到处知何似，应似飞鸿踏雪泥
-theme: kunka
+theme: kunkao
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
